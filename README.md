@@ -2,9 +2,13 @@
 ## Remember the former things.
 
 ### Big-O Notation
-- [ ] What
-- [ ] Why
-- [ ] Examples
+- [ ] What:
+  A method for reasoning about the performance of a given algorithm apart from how the algorithm is implemented. A notation   for describing the performance of an algorithm. A way of expressing the rate of growth of an algorithm as a factor of the size of its input.
+- [ ] Why:
+  It is useful to analyze the amount of time an algorithm takes to solve a problem of a particular size.
+  When analyzing an algorithm, many factors can affect its running time - its programming language it was implemented in,   the particular compiler used to translate the source code to machine language, the operating system which manages the program execution, the underlying hardware on which the OS runs...AHH! There are too many details to consider when trying to anazlyize algorithms. We need to abstract away the less significant details and focus on what matters. What matters? The algorithms growth rate -- how the size of the input to an algorithm affects its run time. It helps to think of an algorithm as a mathematical function -- as in f(n) = x. 
+- [ ] Examples:
+  
 ### Sorting
 #### quicksort
 - [ ] What
