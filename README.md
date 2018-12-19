@@ -1,5 +1,5 @@
 # genesis
-## Remember the former things.
+## Back to basics
 
 ### Big-O Notation
 #### What is it?
